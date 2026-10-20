@@ -1,0 +1,10 @@
+id,category,priority,status,technician
+HD-101,Network,HIGH,OPEN,Maya
+HD-102,Password,LOW,CLOSED,Jordan
+HD-103,Hardware,MEDIUM,OPEN,
+HD-104,Software,MEDIUM,OPEN,Maya
+
+HD-105,Network,HIGH,CLOSED,Jordan
+HD-106,Password,LOW,OPEN,Alex
+HD-107,Hardware,HIGH,OPEN,Maya
+HD-108,Software,LOW,CLOSED,Alex

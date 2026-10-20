@@ -1,0 +1,21 @@
+# Build output and generated files
+target/
+output/
+*.class
+*.log
+
+# Secrets: never commit database passwords or deploy hook URLs
+.env
+.env.*
+
+# IDE and OS clutter
+.idea/
+*.iml
+.vscode/*
+!.vscode/extensions.json
+.settings/
+.project
+.classpath
+.factorypath
+.DS_Store
+Thumbs.db
